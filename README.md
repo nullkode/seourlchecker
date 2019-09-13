@@ -1,21 +1,27 @@
-##Introduction:
+<h1>Introduction:</h1>
 This is a simple script written to validate a list of URLs. Even it can check huge list of URLs.
 
-###Use Case:
-1. Analytics team can use to verify broken urls for SEO validation.
-2. QA team can use it for getting response time for different Web Urls.
-3. Adds value to SEO testing.
+<h2>Use Case:</h2>
+<ol>
+  <li>Analytics team can use to verify broken urls for SEO validation.</li>
+  <li>QA team can use it for getting response time for different Web Urls.</li>
+  <li>Adds value to SEO testing.</li>
+</ol>
 
-###Tools and Languages used:
-1. Python3
-2. HTML
-3. Any IDE supporting Python, like, PyCharm, Atom and so on..
+<h2>Tools and Languages used:</h2>
+<ol>
+  <li>Python3</li>
+  <li>HTML</li>
+  <li>Any IDE supporting Python, like, PyCharm, Atom and so on..</li>
+</ol>
 
-###How to use:
-1. Clone or download the project.
-2. Install Python3 
-3. Copy and paste all the URLs to be validated in "urls.txt" file.
-4. Execute "url.py" file as python
-5. Final report gets generated as "report.html"
+<h2>How to use:</h2>
+<ol>
+  <li>Clone or download the project.</li>
+  <li>Install Python3</li> 
+  <li>Copy and paste all the URLs to be validated in "urls.txt" file.</li>
+  <li>Execute "url.py" file as python.</li>
+  <li>Final report gets generated as "report.html".</li>
+</ol>
 
 That's it. Happy validation!!!
